@@ -12,6 +12,9 @@
 
 - Além de minha experiência como Backend, eu estudei para ser um desenvolvedor Full Stack e também possui conhecimentos acadêmicos em algumas tecnologias Frontend, como React, Css, HTML, Redux, Context API e BootStrap.
 
+Fale comigo!
+### https://www.linkedin.com/in/jctinin
+
 ![octocat](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
 
 
@@ -24,6 +27,3 @@
 ![Bootstrap](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg)
 ![Python](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg)
 
-
-![https://www.linkedin.com/in/jctinin](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)
-https://www.linkedin.com/in/jctinin
