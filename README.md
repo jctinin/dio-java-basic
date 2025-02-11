@@ -1,6 +1,5 @@
-# Olá! Meu nome é Júlio César Tinin!
-🌎
-- Sou apaixonado pelo mercado de Tecnologia da informação, em especial, a área de desenvolvimento de software. Tenho pouco mais de 3 anos de experiência na área e agora pretendo adquirir conhecimentos mais aprofundados. Sempre tive muita curiosidade na área de Cloud e estou achando o curso interessantíssimo.
+# Olá! Meu nome é Júlio César Tinin! 🌎
+-  Sou apaixonado pelo mercado de Tecnologia da informação, em especial, a área de desenvolvimento de software. Tenho pouco mais de 3 anos de experiência na área e agora pretendo adquirir conhecimentos mais aprofundados. Sempre tive muita curiosidade na área de Cloud e estou achando o curso interessantíssimo.
 
 - Estudei Ciência da computação e também já trabalhei com elaboração de projetos de infraestrutura de redes numa integradora Cisco.
 
@@ -27,3 +26,4 @@ Fale comigo!
 ![Bootstrap](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg)
 ![Python](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg)
 
+![MarioDev](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
